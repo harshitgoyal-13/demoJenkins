@@ -54,6 +54,8 @@ tree.insert(7)
 tree.insert(1)
 tree.insert(4)
 tree.insert(10)
+tree.insert(12)
 
 print(tree.inorder_traversal())  
 print(tree.search(4))  
+print(tree.search(11))
